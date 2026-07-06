@@ -1,4 +1,5 @@
-
+<details>
+<summary>Coconut</summary>
 
 
 ```text
@@ -50,4 +51,4 @@
 @@@@@@@@@@@#M#@@#rrr;::,,.      .          ..  ..,;,  .:;si:.     ,::;;rsiSs2G&&&&AAAHM#@@@@@@@@@@@@@@@@@@@@
 index@@@@@@@@#&2r:,,.......                    ...  .     ..     .,,,,,::;rsS2hAHAHBBBBBBM##@@@@@@@@@@@@@@@@
 ```
-
+</details>
